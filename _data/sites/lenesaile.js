@@ -1,22 +1,22 @@
 module.exports = {
-  name: "gablaxian.com", // optional, falls back to object key
-  description: "Personal web site",
+  name: "lenesaile.com", // optional, falls back to object key
+  description: "lighthouse para lenesaile.com",
   options: {
     frequency: 60 * 23, // 23 hours
     freshChrome: "site",
   },
   urls: [
-    "https://www.lenesaile.com",
-    "https://www.lenesaile.com/proyectos",
-    "https://www.lenesaile.com/servicios",
-    "https://www.lenesaile.com/sobre",
-    "https://www.lenesaile.com/contacto",
-    "https://www.lenesaile.com/gracias",
-    "https://www.lenesaile.com/aviso-legal",
-    "https://www.lenesaile.com/privacidad",
-    "https://www.lenesaile.com/blog",
-    "https://www.lenesaile.com/blog/posts",
-    "https://www.lenesaile.com/blog/2020/pagina-web-velocidad",
-    "https://www.lenesaile.com/blog/2020/nuevo-proyecto-web",
+    "https://lenesaile.com",
+    "https://lenesaile.com/proyectos",
+    "https://lenesaile.com/servicios",
+    "https://lenesaile.com/sobre",
+    "https://lenesaile.com/contacto",
+    "https://lenesaile.com/gracias",
+    "https://lenesaile.com/aviso-legal",
+    "https://lenesaile.com/privacidad",
+    "https://lenesaile.com/blog",
+    "https://lenesaile.com/blog/posts",
+    "https://lenesaile.com/blog/2020/pagina-web-velocidad",
+    "https://lenesaile.com/blog/2020/nuevo-proyecto-web",
   ],
 };
